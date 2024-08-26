@@ -1,1 +1,2 @@
 # Tableau_Showcase
+**TableauShowcase** is a repository where I've compiled a variety of Tableau dashboards and visualizations. You'll find examples that highlight advanced techniques, including complex data transformations and interactive features. This collection demonstrates effective dashboard design and data visualization strategies, showcasing practical implementations and innovative approaches.
